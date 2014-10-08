@@ -6,7 +6,7 @@
 #include "Square.cpp"
 #include "Player.cpp"
 #include "General.cpp"
-
+//testGitHuba
 #include <iostream>
 #include<stdlib.h> //komendy konsoli
 #include<cstdlib> //rand()
